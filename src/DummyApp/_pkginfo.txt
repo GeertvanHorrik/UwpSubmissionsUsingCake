@@ -1,0 +1,1 @@
+C:\Source\UwpSubmissionsUsingCake\src\DummyApp\bin\ARM\Release\x64\DummyApp\Upload\DummyApp_1.2.3.0\DummyApp_1.2.3.0_x86_x64_arm.appxbundle
