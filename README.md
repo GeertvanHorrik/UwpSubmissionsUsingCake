@@ -11,6 +11,7 @@ I had a few ultimate goals while developing UWP apps:
 
 This pipeline (image taken from the build configuration in Continua CI) was the ultimate goal:
 
+![](doc/images/continua_ci.png)
 
 # Getting rid of native compilation
 
@@ -187,7 +188,9 @@ Deploy | Depends on `Build`. Once built, it will clone the most recent submissio
 
 # Conclusion
 
-Achievement unlocked! After over 200 manual submissions, I can finally publish app updates automatically via a build server.
+Achievement unlocked! After over 200 manual submissions, I can finally publish app updates automatically via a build server with an acceptable build duration (45 seconds instead of 5 minutes):
+
+![](doc/images/cake_output.png)
 
 All scripts described in this blog post are open source and can be found at https://github.com/GeertvanHorrik/UwpSubmissionsUsingCake
 
